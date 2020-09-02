@@ -1,0 +1,20 @@
+
+body {
+  background-color: #66BFBF;
+}
+
+h1 {
+  color: red;
+  font-style: oblique;
+  font-family: cursive;
+  font-size: 100px;
+}
+img:hover {
+  background-color: grey;
+}
+.Bacon {background-color: green;
+border-radius: 100px}
+.brocolli {background-color: red;}
+.a1 {color: purple;}
+.a2 {color: blue;}
+.a3 {color: yellow; font-size: 5;}
